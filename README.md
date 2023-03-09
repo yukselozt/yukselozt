@@ -23,5 +23,5 @@
 <br/>
 <br/>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI2NWM5NmNmM2UyZjRkYzllOWMyMzVlNGRlYWU1NDYyZGY0NTgwOSZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/111751419/223978900-74eeadcf-f663-49c0-9c49-6506334962aa.png" width="200"/>
 </div>
