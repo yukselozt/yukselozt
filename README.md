@@ -23,5 +23,5 @@
 <br/>
 <br/>
 <div id="header" align="center">
-  <img width="500" height="200" src="https://user-images.githubusercontent.com/111751419/223978900-74eeadcf-f663-49c0-9c49-6506334962aa.png" width="200"/>
+  <img width="800" height="800" src="https://user-images.githubusercontent.com/111751419/223978900-74eeadcf-f663-49c0-9c49-6506334962aa.png" width="200"/>
 </div>
