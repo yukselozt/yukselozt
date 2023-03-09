@@ -5,7 +5,7 @@
 <br/>
  -->
 <div id="header" align="center">
-  <img width="900" height="800" src="https://user-images.githubusercontent.com/111751419/223980620-5dfcbb23-ba2c-46fd-9839-d1cc524fb52d.png" width="200"/>
+  <img width="900" height="800" src="https://user-images.githubusercontent.com/111751419/223981836-93c2e106-f4a8-4a8c-a673-78d07db9881b.png" width="200"/>
 </div>
 <div id="badges" align="center">
   <a target="_blank" href="https://www.linkedin.com/in/y%C3%BCksel%C3%B6zt%C3%BCrk/">
