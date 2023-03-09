@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/y%C3%BCksel%C3%B6zt%C3%BCrk/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://www.instagram.com/ykslztrkkk/">
+    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
   <a href="https://twitter.com/ykslztrkk">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
