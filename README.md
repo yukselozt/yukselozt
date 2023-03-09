@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a target="_blank" href="https://www.instagram.com/ykslztrkkk/">
-    <img  height="28" src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img  height="28" src="https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a target="_blank" href="https://twitter.com/ykslztrkk">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
