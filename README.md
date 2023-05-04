@@ -10,19 +10,10 @@
 <div align="center">
  
   ### Contact: ykslztrk9@gmail.com
-//  ### My Personal Website: osomerr.cf
 </div>
 
 <div align="center">
  
-### You Can Follow Me
-[<img height="26" width="33" src="https://cdn.discordapp.com/emojis/833150217242804285.png?size=96" title="Personal Twitter" />][twitter]
-[<img height="30" width="30" src="https://cdn.discordapp.com/emojis/816305652242055188.png?size=96" title="Personal İnstagram" />][instagram]
-[<img height="30" width="30" src="https://cdn.discordapp.com/emojis/922224305033601084.png?size=96" title="Linkedin" />][linkedn]
-[<img height="30" width="30" src="https://cdn.discordapp.com/emojis/895117089638060052.png?size=96" title="Linktree" />][linktree]
-[<img height="30" width="30" src="https://cdn.discordapp.com/emojis/972590731413843998.png?size=96" title="Google Play Developer Page" />][googleplay]
-</div>
-
 <div align="center">
 
 ### Technologies and tools I use
