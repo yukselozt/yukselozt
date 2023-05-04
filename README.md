@@ -1,20 +1,34 @@
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI2NWM5NmNmM2UyZjRkYzllOWMyMzVlNGRlYWU1NDYyZGY0NTgwOSZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+<div align="center">
+
+<h1> :wave: Hi there, I'm Yüksel. Welcome to my Github Profile </h1>
+ <h3>Frontend Developer | Desktop, Web, Mobile </h3>
+<hr>
 </div>
 
-<br/>
- -->
-<div id="header" align="center">
-  <img width="900" height="800" src="https://user-images.githubusercontent.com/111751419/223981836-93c2e106-f4a8-4a8c-a673-78d07db9881b.png" width="200"/>
+<br>
+
+<div align="center">
+ 
+  ### Contact: ykslztrk9@gmail.com
+//  ### My Personal Website: osomerr.cf
 </div>
-<div id="badges" align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/y%C3%BCksel%C3%B6zt%C3%BCrk/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a target="_blank" href="https://www.instagram.com/ykslztrkkk/">
-    <img  height="28" src="https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a target="_blank" href="https://twitter.com/ykslztrkk">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
+<div align="center">
+ 
+### You Can Follow Me
+[<img height="26" width="33" src="https://cdn.discordapp.com/emojis/833150217242804285.png?size=96" title="Personal Twitter" />][twitter]
+[<img height="30" width="30" src="https://cdn.discordapp.com/emojis/816305652242055188.png?size=96" title="Personal İnstagram" />][instagram]
+[<img height="30" width="30" src="https://cdn.discordapp.com/emojis/922224305033601084.png?size=96" title="Linkedin" />][linkedn]
+[<img height="30" width="30" src="https://cdn.discordapp.com/emojis/895117089638060052.png?size=96" title="Linktree" />][linktree]
+[<img height="30" width="30" src="https://cdn.discordapp.com/emojis/972590731413843998.png?size=96" title="Google Play Developer Page" />][googleplay]
 </div>
+
+<div align="center">
+
+### Technologies and tools I use
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40" title="HTML5">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40" title="CSS">
+<img src="https://i.hizliresim.com/nxgzesz.png" width="42" height="45" title="MSSQL SERVER">
+<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" width="35" height="35" title="FİGMA">
+</div>
+
