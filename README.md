@@ -19,6 +19,6 @@
 ### Technologies and tools I use
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40" title="HTML5">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40" title="CSS">
-<img src="https://i.hizliresim.com/nxgzesz.png" width="40" height="40" title="MSSQL SERVER">
+<img src="[https://i.hizliresim.com/nxgzesz.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)" width="40" height="40" title="JAVASCRIPT">
 </div>
 
